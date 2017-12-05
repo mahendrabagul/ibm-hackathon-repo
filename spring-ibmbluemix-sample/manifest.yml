@@ -1,0 +1,5 @@
+  applications:
+  - name: infy-ibm-hackathon-mobile-connect
+    memory: 256M
+    buildpack: java_buildpack
+    
